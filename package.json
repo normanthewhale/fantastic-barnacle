@@ -1,0 +1,23 @@
+{
+  "name": "fantastic-barnacle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanthewhale/fantastic-barnacle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanthewhale/fantastic-barnacle/issues"
+  },
+  "homepage": "https://github.com/normanthewhale/fantastic-barnacle#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
